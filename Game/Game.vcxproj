@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="guessingGame.cpp" />
     <ClCompile Include="mainGame.cpp" />
+    <ClCompile Include="pseudoRandomNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
